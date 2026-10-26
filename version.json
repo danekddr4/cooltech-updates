@@ -1,6 +1,6 @@
 {
-  "versionCode": 18,
-  "versionName": "2.7",
-  "notes": "Drobné vylepšení.",
+  "versionCode": 19,
+  "versionName": "2.8",
+  "notes": "Oprava: aplikace si správně vyžádá polohu.",
   "url": "https://raw.githubusercontent.com/danekddr4/cooltech-updates/main/CoolTechApp.apk"
 }
