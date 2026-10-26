@@ -1,6 +1,6 @@
 {
-  "versionCode": 19,
-  "versionName": "2.8",
-  "notes": "Oprava: aplikace si správně vyžádá polohu.",
+  "versionCode": 20,
+  "versionName": "2.9",
+  "notes": "Běh na pozadí: sledování polohy a sdílení pokračuje i po zavření aplikace a po restartu telefonu.",
   "url": "https://raw.githubusercontent.com/danekddr4/cooltech-updates/main/CoolTechApp.apk"
 }
