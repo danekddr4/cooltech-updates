@@ -1,6 +1,6 @@
 {
-  "versionCode": 16,
-  "versionName": "2.5",
-  "notes": "Zjednodušení pro zákazníky: jen baterie a tlačítko zapnout/vypnout. Sledování a ovládání na dálku běží automaticky.",
+  "versionCode": 17,
+  "versionName": "2.6",
+  "notes": "Nabíjení a vybíjení zpět jako samostatné přepínače.",
   "url": "https://raw.githubusercontent.com/danekddr4/cooltech-updates/main/CoolTechApp.apk"
 }
