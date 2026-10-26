@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
-  "versionName": "2.3",
-  "notes": "Zkušební aktualizace – ověření, že se nové verze nabízejí samy.",
+  "versionCode": 15,
+  "versionName": "2.4",
+  "notes": "Režim půjčovny: sdílení se zapne samo a posílá i polohu (GPS). Pro monitoring flotily.",
   "url": "https://raw.githubusercontent.com/danekddr4/cooltech-updates/main/CoolTechApp.apk"
 }
